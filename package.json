@@ -1,0 +1,23 @@
+{
+  "name": "interactive-gamepad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Waite <ethan@streamjar.tv>",
+  "license": "MIT",
+  "dependencies": {
+    "beam-interactive-node": "^0.3.2",
+    "bluebird": "^3.4.6",
+    "ffi": "^2.2.0",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
